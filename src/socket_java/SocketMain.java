@@ -4,5 +4,6 @@ public class SocketMain {
 
     public static void main(String[] args){
         System.out.println("Socket main......");
+        System.out.println("Socket main......");
     }
 }
