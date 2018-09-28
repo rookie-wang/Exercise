@@ -16,8 +16,9 @@ public class ThreadPool {
 
     //单例模式构造线程池
 
-    public Thread getThread(String strDeal){
+    public RunnableImpl getThread(String strDeal){
         //如果线程池已经达到最大容量，返回Null
         return null;
     }
+
 }
